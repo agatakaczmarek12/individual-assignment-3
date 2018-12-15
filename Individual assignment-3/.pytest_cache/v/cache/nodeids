@@ -1,0 +1,5 @@
+[
+  "test_exercises.py::test_lessthan5_recalculation",
+  "test_exercises.py::test_zero_quality_product",
+  "test_exercises.py::test_defined_product"
+]
